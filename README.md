@@ -1,6 +1,7 @@
-# WhiteBoard-Problems
+# Coding on the whiteboard series
+[Youtube Series](https://www.youtube.com/playlist?list=PLj-lITfRFKTt_xro_Qn-fZbhHjxUwZmcI)
 
-### LeetCode solutions and video
+## LeetCode Video & Code solutions
 [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) + [YouTube video](https://youtu.be/Znl7aJOiCR0) + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/addTwoNumsFromLinkedList.java)
 
 [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) + [YouTube video](https://youtu.be/hvWx8jNEVCk) + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/StringToInt.java)
