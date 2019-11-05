@@ -18,4 +18,8 @@
 
 [207. Course Schedule](https://leetcode.com/problems/course-schedule/) + [YouTube video](https://youtu.be/7LRUhkTz-XE) + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/courseSchedule.java)
 
+[771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) + [YouTube video](https://youtu.be/q2Cu4GBAweA) + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/numJewelsInStones.java)
+
+[1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) + [YouTube video](https://youtu.be/R2ylq8oKOp4) + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/defangAnIPAddress.java)
+
 
