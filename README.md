@@ -39,4 +39,7 @@
 [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) + [YouTube video](https://youtu.be/R2ylq8oKOp4) + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/defangAnIPAddress.java)
 ### 1201 - 1250
 
+Working Code(use video name to find code): 
+https://github.com/Morazajuan/WhiteBoard-Problems
 
+Series: https://www.youtube.com/playlist?list=PLj-lITfRFKTt_xro_Qn-fZbhHjxUwZmcI
