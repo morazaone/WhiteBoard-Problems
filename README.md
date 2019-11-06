@@ -7,7 +7,7 @@
 
 [1. Two Sum](https://leetcode.com/problems/two-sum/) + [YouTube video](https://youtu.be/fsw0sMguyxU) + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/twoSum.java)
 
-[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) + [YouTube video]() + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/addTwoNumsFromLinkedList.java)
+[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) + [YouTube video](https://www.youtube.com/watch?v=Znl7aJOiCR0) + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/addTwoNumsFromLinkedList.java)
 
 [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) + [YouTube video](https://youtu.be/WL24V40vS-Q) + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/medianOfSortedList.java)
 
