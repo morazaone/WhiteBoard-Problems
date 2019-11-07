@@ -32,6 +32,8 @@
 [771. Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) + [YouTube video](https://youtu.be/q2Cu4GBAweA) + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/numJewelsInStones.java)
 ### 801 - 900
 ### 901 - 1000
+[961. N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/) + [YouTube video](https://youtu.be/dcHl4cOgUUU) + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/N-RepeatedElementInSize2NArray.java)
+
 ### 1001 - 1100
 
 ### 1101 - 1200
@@ -39,7 +41,12 @@
 [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) + [YouTube video](https://youtu.be/R2ylq8oKOp4) + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/defangAnIPAddress.java)
 ### 1201 - 1250
 
+### Youtube Description
+
+Jump to coding Part 3:39 
 Working Code(use video name to find code): 
 https://github.com/Morazajuan/WhiteBoard-Problems
+
+LeetCode problem 
 
 Series: https://www.youtube.com/playlist?list=PLj-lITfRFKTt_xro_Qn-fZbhHjxUwZmcI
