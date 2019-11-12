@@ -13,7 +13,7 @@
 
 [8. String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) + [YouTube video](https://youtu.be/hvWx8jNEVCk) + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/StringToInt.java)
 
-[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) + [YouTube video] + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/mergeTwoLists.java)
+[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) + [YouTube video](https://youtu.be/Soy-bCO-f9o) + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/mergeTwoLists.java)
 
 [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) + [YouTube video](https://youtu.be/JslcONajyd8) + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/mergeKListsV2.java)
 
