@@ -1,7 +1,10 @@
 # Coding on the whiteboard series
 [Youtube Series](https://www.youtube.com/playlist?list=PLj-lITfRFKTt_xro_Qn-fZbhHjxUwZmcI)
 
+# Total of Videos (14/1250)
+
 ## LeetCode Video & Code solutions
+
 ### 1 - 100
 
 
@@ -17,7 +20,7 @@
 
 [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) + [YouTube video](https://youtu.be/JslcONajyd8) + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/mergeKListsV2.java)
 
-[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) + [YouTube video] + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/maxSubArray.java)
+[53. Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) + [YouTube video](https://youtu.be/Q6r3GuIzmSo) + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/maxSubArray.java)
 
 [98. Validate Binary Search Tree](https://leetcode.com/problems/linked-list-cycle/) + [YouTube video](https://youtu.be/2OQsgTu6TWg) + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/IsCycle.java)
 ### 101 - 200
