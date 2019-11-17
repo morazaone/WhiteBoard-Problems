@@ -1,26 +1,29 @@
 class Solution {
-    public boolean isPalindrome(String s) {
-        s = s.toLowerCase();
-        int p1 = 0;
-        int p2 = s.length() - 1;
-        while (p1 < p2) {
-            int cp1 = s.charAt(p1) - 'a';
-            int cp2 = s.charAt(p2) - 'a';
-            if (cp1 < 0 || cp1 > 25) {
-                p1++;
+
+ public boolean isPalindrome(String s) {
+    int i=0;
+    int j=s.length()-1;
+    char[] c = s.toCharArray();
+    
+     while(i<j){
+        if(c[i]>='A'&&c[i]<='Z') 
+            c[i]+='c'-'C';
+        if(c[j]>='A'&&c[j]<='Z') 
+            c[j]+='a'-'A';
+         
+        if(!(c[i]>='a' && c[i]<='z'|| c[i]>='0' && c[i]<='9')){
+                i++;
                 continue;
-            }
-            if (cp2 < 0 || cp2 > 25) {
-                p2--;
-                continue;
-            }
-            if (cp1 != cp2) {
-                return false;
-            }
-            p1++;
-            p2--;
         }
-        System.exit(0);
+        if(!(c[j]>='a' && c[j]<='z'|| c[j]>='0' && c[j]<='9')){
+                j--;
+                continue;
+        }
+        if(c[i] != c[j]) return false;
+            i++;
+            j--;
+        }
+     
         return true;
     }
 }
