@@ -24,7 +24,7 @@
 
 [98. Validate Binary Search Tree](https://leetcode.com/problems/linked-list-cycle/) + [YouTube video](https://youtu.be/2OQsgTu6TWg) + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/IsCycle.java)
 ### 101 - 200
-[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) + [YouTube video]  + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/validBST.java)
+[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) + [YouTube video](https://youtu.be/nBMhuL5yeXA) + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/validBST.java)
 
 [141. Linked List Cycle](https://leetcode.com/problems/validate-binary-search-tree/) + [YouTube video](https://youtu.be/wTNuSJat_Po) + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/validBST.java)
  ### 201 - 300
