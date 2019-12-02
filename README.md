@@ -34,7 +34,7 @@
 [207. Course Schedule](https://leetcode.com/problems/course-schedule/) + [YouTube video](https://youtu.be/7LRUhkTz-XE) + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/courseSchedule.java)
 ### 301 - 400
 
-[328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) + [YouTube video] + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/oddEvenList.java)
+[328. Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) + [YouTube video](https://youtu.be/xHI5LpR6gis) + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/oddEvenList.java)
 
 [344. Reverse String](https://leetcode.com/problems/reverse-string/) + [YouTube video] + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/reverseString.java)
 ### 401 - 500
