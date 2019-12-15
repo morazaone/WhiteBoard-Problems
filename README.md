@@ -1,7 +1,7 @@
 # Coding on the whiteboard series
 [Youtube Series](https://www.youtube.com/playlist?list=PLj-lITfRFKTt_xro_Qn-fZbhHjxUwZmcI)
 
-# Total of Videos (14/1250)
+# Total of Videos (18/1250)
 
 ## LeetCode Video & Code solutions
 
@@ -53,7 +53,7 @@
 
 [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) + [YouTube video](https://youtu.be/R2ylq8oKOp4) + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/defangAnIPAddress.java)
 
-[1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) + [YouTube video] + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/longestCommonSubsequence.java)
+[1143. Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) + [YouTube video](https://youtu.be/6Ogc4Gc7hb4) + [Code](https://github.com/Morazajuan/WhiteBoard-Problems/blob/master/longestCommonSubsequence.java)
 ### 1201 - 1250
 
 ### Youtube Description
